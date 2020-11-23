@@ -1,0 +1,21 @@
+.Blog_header{
+    display: grid;
+    height: 150px;
+    background-color:rgb(255, 255, 255);
+    grid-template-columns: 60% 10% 10% 10%;
+    
+
+}
+#Blog-header-img{
+ height: 40px;
+ margin-left: 20%;
+ 
+}
+ 
+    
+
+
+
+
+
+

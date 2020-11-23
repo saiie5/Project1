@@ -1,0 +1,165 @@
+*{
+    margin: 0%;
+}
+#pricing_header{
+    display: flex;
+    justify-content: space-around;
+    background-color: #ffeecc;
+    padding:1%;
+}
+#header-img{
+    width: 150px;
+    margin-left: 10%;
+    
+}
+#header-drop{
+   
+ background-color: #ffeecc;
+
+margin-left: 30%;
+border: 1px ;
+  
+  
+}
+
+
+#pricing_header a {
+    margin-top: 1%;
+    text-decoration: none;
+    color: black;
+}
+#Header-button{
+    background-color: #ffeecc ;
+    border-radius: 10%;
+    padding: 1%;
+    border: 0.5px solid black;
+}
+#parking{
+    background-color: #ffeecc ;
+ display: flex;
+ padding: 5%;
+
+  
+}
+#Online-parking{
+    font-size: 35px;
+    font-family:  'Open Sans', sans-serif;
+    color: rgb(51,51,51);
+    margin: 0%;
+    font-weight: 10;
+    padding: .10px;
+    
+
+}
+#Parking-content{
+    padding: 10px;
+    color: rgb(51,51,51);
+    font-family:  'Open Sans', sans-serif;
+    font-size: 23px;
+    font-weight: 10;
+    
+    
+
+
+}
+#Parking-img{
+    margin-left: 60%;
+    
+    width: 400px;
+}
+#Parking-Button{
+    padding: 20px;
+    margin-left: 2%;
+    background-color: coral;
+    border-radius: 10%;
+    border: 1px;
+    color: white;
+    
+    height: 60px;
+}
+#Brands-line{
+    background-color: #ffeecc ;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+#Brands-line img{
+    height: 50px;
+    
+   
+}
+#picWithContent2{
+    background-color: rgb(253, 247, 247);
+    width: 600px;
+    height: 450px;
+
+
+}
+#picWithContent2 img{
+    margin-top: 120px;
+    margin-left: 80px;
+    width: 60%;
+}
+
+#picWithContent1{
+    float:right;
+    font-family:  'Open Sans', sans-serif;
+    margin: 5%;
+    font-size: 25px;
+    padding: 20px;
+
+
+}
+#PicWithContent3{
+    float:left;
+    font-family:  'Open Sans', sans-serif;
+    margin: 5%;
+    font-size: 25px;
+    padding: 20px;
+
+}
+#PicWithContent4{
+    background-color: rgb(253, 247, 247);
+
+    
+
+
+  
+}
+#PicWithContent4 img{
+    margin-top: 10px;
+    margin-left: 100px;
+    width: 25%;
+
+}
+
+
+
+#PicWithContent6{
+    
+    background-color: rgb(253, 247, 247);
+
+    
+
+}
+#PicWithContent6 img{
+    margin-top: 10px;
+    margin-left: 100px;
+    width: 30%;
+
+}
+#PicWithContent5{
+    float:right;
+    font-family:  'Open Sans', sans-serif;
+    margin: 5%;
+    font-size: 25px;
+    padding: 20px;
+
+
+}
+
+
+
+
+
+
