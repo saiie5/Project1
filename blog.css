@@ -1,16 +1,103 @@
 .Blog_header{
     display: grid;
-    height: 150px;
-    background-color:rgb(255, 255, 255);
+    background-color:rgb(245, 245, 245);
     grid-template-columns: 60% 10% 10% 10%;
+    height: 60px;
+    
+    
+    
     
 
+}
+.Blog_header a{
+    margin-top: 10%;
 }
 #Blog-header-img{
  height: 40px;
  margin-left: 20%;
+ margin-top: 5px;
  
 }
+#side-max{
+    margin: 5%;
+    background-color: aliceblue;
+    width: 20%;
+    text-align: left;
+    padding: 1%;
+    font-family:'Open Sans', sans-serif ;
+    float: left;
+
+
+}
+
+.sideright{
+ 
+width: 300%;
+height: 120%;
+padding: 1%;
+
+
+
+}
+.sidertext{
+    display: grid;
+    margin-left: 2%;
+    
+    
+}
+#sidercontainer{
+    padding: 5%;
+    display: grid;
+    grid-template-columns: 40% 50%;
+    
+}
+.sideright2{
+    
+   width: 300%;
+    height: auto;
+    padding: 1%;
+    
+    }
+    .sidertext2{
+        display: grid;
+        margin-left: 2%;
+        
+        
+    }
+    #sidercontainer2{
+        padding: 2%;
+        display: grid;
+        grid-template-columns: 40% 50%;
+    }
+
+
+    .sideright3{
+    
+        width: 100%;
+        height: auto;
+        padding: 1%;
+        
+        }
+        .sidertext3{
+            display: grid;
+            margin-left: 2%;
+            
+            
+        }
+        #sidercontainer3{
+            float:right;
+            display: grid;
+            grid-template-columns: 50% 50%;
+            margin-right: 200px;
+            margin-top: 100px;
+        }
+        footer{
+            margin-top: 28%;
+            color:rgb(251,127,74);
+            margin-left: 50%;
+            
+        
+        }
  
     
 
