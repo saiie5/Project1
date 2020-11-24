@@ -1,165 +1,134 @@
-*{
-    margin: 0%;
+#nav{
+    display: grid;
+    grid-template-columns: 50% 100%;
+    background-color:white;
+     padding: 1%;
 }
-#pricing_header{
-    display: flex;
-    justify-content: space-around;
-    background-color: #ffeecc;
-    padding:1%;
+div img{
+    margin-left: 25%;
 }
-#header-img{
-    width: 150px;
-    margin-left: 10%;
-    
-}
-#header-drop{
-   
- background-color: #ffeecc;
-
-margin-left: 30%;
-border: 1px ;
-  
-  
-}
-
-
-#pricing_header a {
-    margin-top: 1%;
+div a{
+    margin-left: 5%;
     text-decoration: none;
     color: black;
+    padding: 0;
+    margin:4%;
 }
-#Header-button{
-    background-color: #ffeecc ;
-    border-radius: 10%;
-    padding: 1%;
-    border: 0.5px solid black;
-}
-#parking{
-    background-color: #ffeecc ;
- display: flex;
- padding: 5%;
+.middile{
 
-  
+    background-color: rgb(233,250,232);
+    height: 600px;
+    width: 1360px;
 }
-#Online-parking{
-    font-size: 35px;
-    font-family:  'Open Sans', sans-serif;
-    color: rgb(51,51,51);
-    margin: 0%;
-    font-weight: 10;
-    padding: .10px;
-    
 
-}
-#Parking-content{
-    padding: 10px;
-    color: rgb(51,51,51);
-    font-family:  'Open Sans', sans-serif;
-    font-size: 23px;
-    font-weight: 10;
-    
-    
+.middile h4{
+    color:rgb(131,209,29);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 200%;
+    text-align: center;
+    padding:2%;
 
-
-}
-#Parking-img{
-    margin-left: 60%;
     
-    width: 400px;
 }
-#Parking-Button{
-    padding: 20px;
-    margin-left: 2%;
-    background-color: coral;
-    border-radius: 10%;
-    border: 1px;
-    color: white;
-    
-    height: 60px;
-}
-#Brands-line{
-    background-color: #ffeecc ;
-    display: flex;
-    justify-content: space-evenly;
-    padding: 20px;
-}
-#Brands-line img{
-    height: 50px;
-    
-   
-}
-#picWithContent2{
-    background-color: rgb(253, 247, 247);
-    width: 600px;
+.middile-white{
+    background-color: white;
     height: 450px;
-
-
+    width: 450px;
+    margin-left: 37%;
 }
-#picWithContent2 img{
-    margin-top: 120px;
-    margin-left: 80px;
-    width: 60%;
+.middile-white >p{
+ text-align: center;
+    font-size: 20px;
+    padding: 0;
+    margin: 5px;
 }
-
-#picWithContent1{
-    float:right;
-    font-family:  'Open Sans', sans-serif;
-    margin: 5%;
-    font-size: 25px;
-    padding: 20px;
-
-
+button{
+    margin-left: 170px;
+    border-radius: 20px;
+    background-color:rgb(130, 205, 248);
+    padding: 15px;
+    border: 1px;
 }
-#PicWithContent3{
-    float:left;
-    font-family:  'Open Sans', sans-serif;
-    margin: 5%;
-    font-size: 25px;
-    padding: 20px;
-
+#special{
+    font-size: 80px;
+    font-family: 'roboto', sans-serif;
+    
+    
 }
-#PicWithContent4{
-    background-color: rgb(253, 247, 247);
-
+#middile-white-content img{
+    height: 25px;
+    margin: 10px;
+    padding: 0%;
+    
     
 
-
-  
 }
-#PicWithContent4 img{
-    margin-top: 10px;
+#middile-white-content{
+    text-align: left;
+    font-size: 16px;
+}
+
+
+#heading{
+    color: black;
     margin-left: 100px;
-    width: 25%;
-
 }
-
-
-
-#PicWithContent6{
-    
-    background-color: rgb(253, 247, 247);
-
+.withyou img{
+    width: 200px;
     
 
 }
-#PicWithContent6 img{
+.withyou p {
+    text-align: left;
+    
+ 
+
+}
+.withyou{
+    display: grid;
+    grid-template-rows: 20% 80%;
+}
+.withtext{
+    display: grid;
+    grid-template-columns: 33.3% 33.3% 33.3%;
     margin-top: 10px;
-    margin-left: 100px;
-    width: 30%;
+}
+.whatourpartners{
+    display: grid;
+    grid-template-rows: 20% 65% 15%;
 
 }
-#PicWithContent5{
-    float:right;
-    font-family:  'Open Sans', sans-serif;
-    margin: 5%;
+.whatourpartners img{
+    height: 180px;
+    margin-left: 500px;
+}
+.whatourpartners h3{
     font-size: 25px;
-    padding: 20px;
-
+   text-align: center;
+}
+.whatourpartners p {
+    font-size: 20px;
+    text-align: center;
 
 }
+#graduatetemp{
+    display: grid;
+    grid-template-rows:30% 20%;
+    
+}
+#graduate2img{
+    margin-left: 800px;
+}
+#graduatetemp p{
+    font-size: 30px;
+    text-align: center;
+}
 
-
-
-
+#learnhow{
+    display: grid;
+    grid-template-columns: 60% 20%;
+    margin:30px;
+    font-size: 20px;
+}
 
 
