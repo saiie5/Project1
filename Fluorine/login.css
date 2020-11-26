@@ -1,0 +1,24 @@
+ tr{
+    background-color: rgba(236, 18, 18, 0.664);
+    height: 65px;
+    
+    
+
+}
+#nav{
+    display: grid;
+    grid-template-columns: 50% 100%;
+    background-color:white;
+     padding: 1%;
+     margin: 50px;
+    
+}
+.big{
+    display: grid;
+    grid-template-columns: 60% 50%;
+}
+
+.big img{
+    margin-top: 70px;
+    margin-left: 50px;
+}

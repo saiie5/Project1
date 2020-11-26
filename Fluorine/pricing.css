@@ -1,0 +1,187 @@
+body{
+    margin: 20px;
+}
+#nav{
+    display: grid;
+    grid-template-columns: 50% 100%;
+    background-color:white;
+     padding: 1%;
+}
+div img{
+    margin-left: 25%;
+}
+div a{
+    margin-left: 5%;
+    text-decoration: none;
+    color: black;
+    padding: 0;
+    margin:4%;
+}
+.middile{
+
+    background-color: rgb(233,250,232);
+    height: 600px;
+    width: 1360px;
+}
+
+.middile h4{
+    color:rgb(131,209,29);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 200%;
+    text-align: center;
+    padding:2%;
+
+    
+}
+.middile-white{
+    background-color: white;
+    height: 450px;
+    width: 450px;
+    margin-left: 37%;
+}
+.middile-white >p{
+ text-align: center;
+    font-size: 20px;
+    padding: 0;
+    margin: 5px;
+}
+.hHMiddle-1-button-1 {
+    width: 170px;
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #fec;
+    font-size: 16px;
+    text-shadow: 0 1px 6px #e9895e;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #fa824c;
+    border-radius: 4px;
+    background-color: #fa824c;
+    text-decoration: none;
+    box-shadow: -3px 1px 9px -4px rgba(204, 115, 75, 0.65);
+    margin-left: 130px;
+    
+}
+}
+#special{
+    font-size: 80px;
+    font-family: 'roboto', sans-serif;
+    
+    
+}
+#middile-white-content img{
+    height: 25px;
+    margin: 10px;
+    padding: 0%;
+    
+    
+
+}
+#middile-white-content{
+    text-align: left;
+    font-size: 16px;
+}
+
+
+#heading{
+    color: black;
+    margin-left: 100px;
+}
+.withyou img{
+    width: 200px;
+    
+
+}
+.withyou p {
+    text-align: left;
+    
+ 
+
+}
+.withyou{
+    display: grid;
+    grid-template-rows: 20% 80%;
+}
+.withtext{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    margin-top: 15px;
+    margin: 20px;
+}
+#learnhow p{
+    font-size: 30px;
+}
+.whatourpartners{
+    display: grid;
+    grid-template-rows: 20% 65% 15%;
+
+}
+.whatourpartners img{
+    height: 180px;
+    margin-left: 500px;
+}
+.whatourpartners h3{
+    font-size: 25px;
+   text-align: center;
+}
+.whatourpartners p {
+    font-size: 20px;
+    text-align: center;
+
+}
+#graduatetemp{
+    display: grid;
+    grid-template-rows:30% 20%;
+    
+}
+#graduate2img{
+    margin-left: 800px;
+}
+#graduatetemp p{
+    font-size: 30px;
+    text-align: center;
+}
+
+#learnhow{
+    display: grid;
+    grid-template-columns: 60% 20%;
+    margin:30px;
+    font-size: 20px;
+    margin-bottom: 70px;
+    background-color: wheat;
+}
+#learnhow button{
+    width: 100px;
+    height: 70px;
+    margin-top: 10px;
+}
+#udercontet{
+    font-size: 15px;
+    display: grid;
+    grid-template-columns:30% 30% 30% ;
+    margin-bottom: 30px;
+}
+.footer{
+    display: grid;
+    grid-template-columns:50% 50%;
+}
+
+#footer-right img{
+    height: 100px;
+
+}
+#footer-right>a{
+    text-decoration: underline;
+    margin-top: 20px;
+    margin-left: 150px;
+
+
+}
+
+
+
+
